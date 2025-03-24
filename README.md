@@ -19,6 +19,7 @@
 ### *🛢️ Databases*  
 <p align="left">
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
+    <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" height="30"/>
 </p>
 
 ### *🛠️ Tools & Version Control*  
@@ -51,5 +52,3 @@
 ## 🌍 *Social Media*  
 - 📫 *Email:* [pedrocalil.cordeiro@gmail.com](mailto:pedrocalil.cordeiro@gmail.com)  
 - 💼 *LinkedIn:* [Pedro Calil](https://www.linkedin.com/in/pcalil/)  
-
----
