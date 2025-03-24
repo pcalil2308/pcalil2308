@@ -7,9 +7,10 @@
 - 💻 *Software Developer* focused on backend technologies  
 - 🛠️ *Tech Stack:*  
 
-### *💻 Programming Languages*  
+### *💻 Programming Languages & Frameworks*  
 <p align="left">
     <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="30"/>
+    <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" height="30"/>
     <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
     <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
     <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" height="30"/>
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
     <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" height="30"/>
+    <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" height="30"/>
 </p>
 
 ### *📦 Operating Systems*  
